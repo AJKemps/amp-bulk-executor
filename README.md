@@ -29,7 +29,7 @@ npm install
 
 ## Options
 
-- `-i, --input`: Input file with repo slugs (default: `input/repos.txt`)
+- `-i, --input`: Path to file containing repo slugs, one per line (default: `input/repos.txt`)
 - `-c, --concurrency`: Number of concurrent sessions (default: `10`)
 - `-p, --prompt`: Path to prompt file (default: `prompts/authentication_analysis.md`)
 - `-o, --output-dir`: Output directory (default: `runs`)
