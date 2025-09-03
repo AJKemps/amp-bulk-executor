@@ -1,0 +1,6 @@
+# Sample repository list for authentication analysis
+facebook/react
+vercel/next.js
+microsoft/vscode
+WordPress/WordPress
+# Add more repo slugs (one per line)
